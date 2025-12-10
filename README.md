@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Darren-van-der-velde/Darren-van-der-velde/main/banner.png" alt="Darren Banner" />
+  <img src="https://raw.githubusercontent.com/Darrenvandervelde/Darren-van-der-velde/main/banner.png" alt="Darren Banner" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Darren van der Velde</h1>
