@@ -24,6 +24,7 @@
 ### Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Php-000?style=for-the-badge&logo=Php" />
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql" />
