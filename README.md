@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""https://avatars.githubusercontent.com/u/241697224?v=4" alt="Darren Banner" />
+  <img src="https://avatars.githubusercontent.com/u/241697224?v=4" alt="Darren Banner" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Darren van der Velde</h1>
