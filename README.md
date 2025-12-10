@@ -45,6 +45,12 @@ I help students with:
 > Want help? → Open a **Discussion** or **Issue**!
 
 ---
+### GitHub Stats
+<p align="center">
+  <img src="https://ghchart.rshah.org/darrenvandervelde" height="150" />
+</p>
+
+---
 
 ### Connect with Me
 <p align="center">
@@ -54,11 +60,4 @@ I help students with:
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://ghchart.rshah.org/darrenvandervelde" height="150" />
-</p>
-
----
-
-⭐️ *Thanks for visiting my profile!*
+ *Thanks for visiting my profile!*
